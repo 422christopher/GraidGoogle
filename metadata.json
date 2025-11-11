@@ -1,0 +1,7 @@
+{
+  "name": "GraidGoogle",
+  "description": "A real-time, conversational voice application powered by the Gemini 2.5 Native Audio (Live API). Users can speak to the AI and receive spoken responses, with a live transcription of the conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
